@@ -17,10 +17,6 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) {
  */
 
 
-use Bitrix\Main\Application;
-use Bitrix\Main\Loader;
-
-
 class FormNew extends CBitrixComponent
 {
     /**
