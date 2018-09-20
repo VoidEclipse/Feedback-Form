@@ -1,0 +1,32 @@
+div.footerfeedback {
+    padding: 0px 50px 50px 50px;
+}
+
+.footerfeedback > form > .btn{
+    float: right;
+}
+
+div.mf-name, div.mf-email, div.mf-captcha, div.f-message {
+    width: 100%;
+    padding-bottom: 0.4em;
+}
+
+div.mf-name input, div.mf-email input {
+    width: 100%;
+}
+
+div.f-message textarea {
+    width: 100%;
+}
+
+span.mf-req {
+    color: red;
+}
+
+div.mf-ok-text {
+    color: green;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+
